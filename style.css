@@ -786,7 +786,7 @@ footer p{
 
 /* Планшеты */
 
-@media (max-width:1000px){
+@media screen and (min-width:769px) and (max-width:1000px){
 
     .cards,
     .advantages-cards,
@@ -811,7 +811,7 @@ footer p{
 
 /* Мобильная версия */
 
-@media (max-width:768px){
+@media screen and (max-width:768px){
   .hero {
     background-size: cover;
     background-position: 65% center;
@@ -863,16 +863,6 @@ footer p{
 
         padding:115px 22px 55px;
 
-        background:
-            linear-gradient(
-                to right,
-                rgba(12,87,130,.67) 0%,
-                rgba(12,87,130,.43) 58%,
-                rgba(0,0,0,.10) 100%
-            ),
-            url("image/1.PNG");
-
-        background-size:cover;
         background-position:68% center;
     }
 
