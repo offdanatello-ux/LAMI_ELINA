@@ -815,7 +815,6 @@ footer p{
   .hero {
     background-size: cover;
     background-position: 65% center;
-    
   }
 
     body{
@@ -1305,21 +1304,7 @@ footer p{
     .hero h1{
         font-size:52px;
     }
-.about-content p,
 
-.about-content li,
-
-.card p,
-
-.advantage p,
-
-.review p,
-
-.contact-item p{
-
-    letter-spacing:-0.6px;
-
-}
     .content p{
         font-size:22px;
     }
