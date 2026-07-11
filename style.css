@@ -144,7 +144,7 @@ nav a{
             rgba(80,84,100,.35) 50%,
             rgba(0,0,0,0) 78%
         ),
-        url("image/1.png");
+        url("image/1.PNG");
 
     background-size:cover;
     background-position:center;
@@ -870,7 +870,7 @@ footer p{
                 rgba(12,87,130,.43) 58%,
                 rgba(0,0,0,.10) 100%
             ),
-            url("image/1.png");
+            url("image/1.PNG");
 
         background-size:cover;
         background-position:68% center;
