@@ -899,6 +899,12 @@ footer p{
 
     /* Кнопки */
 
+    .hero .btn{
+    width:auto;
+    max-width:none;
+    padding:12px 24px;
+    font-size:18px;
+}
     .btn,
     button{
         width:100%;
@@ -1282,7 +1288,7 @@ footer p{
 @media (max-width:420px){
 
     header nav{
-        gap:8px 13px;
+        gap:12px 30px;
     }
 
     header nav a{
@@ -1298,7 +1304,21 @@ footer p{
     .hero h1{
         font-size:52px;
     }
+.about-content p,
 
+.about-content li,
+
+.card p,
+
+.advantage p,
+
+.review p,
+
+.contact-item p{
+
+    letter-spacing:-0.6px;
+
+}
     .content p{
         font-size:22px;
     }
