@@ -815,27 +815,8 @@ footer p{
   .hero {
     background-size: cover;
     background-position: 65% center;
-          background:
-            linear-gradient(
-                to right,
-                rgba(12,87,130,.42) 0%,
-                rgba(12,87,130,.24) 58%,
-                rgba(0,0,0,.04) 100%
-            ),
-            url("image/1.png");
-
-        background-size:cover;
-        background-position:68% center;
-    }
-
-    .about-content .btn{
-        width:100%;
-        max-width:300px;
-        margin:30px auto 0;
-        display:flex;
-    }
-
-}
+    
+  }
 
     body{
         font-size:18px;
@@ -1300,6 +1281,7 @@ footer p{
   width: calc(100% - 32px);
   max-width: 360px;
   z-index: 999;
+}
 }
 
 /* Маленькие телефоны */
